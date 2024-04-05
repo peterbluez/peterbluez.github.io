@@ -34,4 +34,3 @@ View my Tableau public profile [here](https://public.tableau.com/app/profile/pet
 
 Email me at <a href="mailto:peterfz.79@gmail.com">peterfz.79@gmail.com</a>
 
- <input type="text" id="name" name="name"/>
