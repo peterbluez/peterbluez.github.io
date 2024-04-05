@@ -8,9 +8,12 @@ Welcome to my page. I hope to post updates on my various projects here. Largely 
 
 ### **3D Printing**
 
-Not all of my prints are from my own design, but I am always working to expand my library of creations. Currently no video, but I hope to change this very soon.
+3/7/24 - Purchased a Camera for the Raspberry Pi that runs the printer. Need to design a case for to attach to the lack tables.
+
+4/5/24 - I started working on converting a small decorative crate into a lantern
 
 The print tool chain is -
+
 Fusion360 (design) -> Prusa Slicer (design slicer) -> Octoprint (running on Raspberry 4b+) -> Print on Prusa i3 Mk3S
 
 See my profile on Printables.com [here](https://www.printables.com/@PeterZ_243131)
@@ -27,7 +30,7 @@ I code exclusively in Python right now, using Anaconda to manage my environments
 
 View my Tableau public profile [here](https://public.tableau.com/app/profile/peter.zitz/vizzes)
 
+## Contact Information
 
-
-You can email me at <a href="mailto:peterfz.79@gmail.com">peterfz.79@gmail.com</a>
+Email me at <a href="mailto:peterfz.79@gmail.com">peterfz.79@gmail.com</a>
  
